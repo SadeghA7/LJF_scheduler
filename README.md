@@ -54,7 +54,9 @@ Tasks can be modified inside the `main()` function.
 ### Project Structure
 .
 ├── ljf_scheduler.py # Main Python source file
+
 ├── output.png # Sample program output
+
 └── README.md # Project documentation
 
 text
