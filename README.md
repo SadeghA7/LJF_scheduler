@@ -52,7 +52,7 @@ Tasks can be modified inside the `main()` function.
 - Total and average waiting/turnaround times
 
 ### Project Structure
-.
+
 ├── ljf_scheduler.py # Main Python source file
 
 ├── output.png # Sample program output
@@ -123,9 +123,11 @@ text
 - مجموع و میانگین زمان‌های انتظار و بازگشت
 
 ### ساختار پروژه
-.
+
 ├── ljf_scheduler.py # فایل اصلی پایتون
+
 ├── output.png # نمونه خروجی برنامه
+
 └── README.md # مستندات پروژه
 
 text
