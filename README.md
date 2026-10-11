@@ -50,7 +50,6 @@ Tasks can be modified inside the `main()` function.
 - Tasks sorted by burst time (descending)
 - Execution order with waiting and turnaround times
 - Total and average waiting/turnaround times
-- Text-based Gantt chart (see `output.png` for a sample)
 
 ### Project Structure
 .
@@ -120,7 +119,6 @@ text
 - تسک‌های مرتب‌شده بر اساس زمان اجرا (نزولی)
 - ترتیب اجرا همراه با زمان انتظار و زمان بازگشت
 - مجموع و میانگین زمان‌های انتظار و بازگشت
-- نمودار گانت متنی (برای نمونه به فایل `output.png` مراجعه کنید)
 
 ### ساختار پروژه
 .
